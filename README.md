@@ -4,7 +4,7 @@ Tiny typescript hook for running a segment of code once, immediately before the 
 
 It is the rough equivalent of `componentWillMount` using React hooks.
 
-See [explanation]().
+See [explanation](https://dev.to/video/the-equivalent-of-componentwillmount-using-react-hooks-11em).
 
 _Note: this is not necessarily a recommended pattern, but it is a question that comes up every so often._
 
