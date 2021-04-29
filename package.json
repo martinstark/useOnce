@@ -1,6 +1,6 @@
 {
   "name": "@martinstark/use-once",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Roughly a react hook equivalent of componentWillMount",
   "typings": "dist/typings/index.d.ts",
   "main": "dist/use-once.min.js",

@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/martinstark/useOnce/compare/v1.0.3...v1.0.4) (2021-04-29)
+
+
+### Bug Fixes
+
+* add react as peer dependency ([a8a67b1](https://github.com/martinstark/useOnce/commit/a8a67b145b65250ba878b83cabb78e003294a05e))
+
 ## [1.0.3](https://github.com/martinstark/useOnce/compare/v1.0.2...v1.0.3) (2021-04-29)
 
 
