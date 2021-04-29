@@ -1,6 +1,6 @@
 {
   "name": "@martinstark/use-once",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Correctly typed generic throttle function",
   "typings": "dist/typings/index.d.ts",
   "main": "dist/use-once.min.js",
@@ -24,6 +24,9 @@
     "pretty": "prettier --write .",
     "ts": "tsc --noEmit",
     "prepublishOnly": "yarn build"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "@babel/core": "7.13.16",
