@@ -62,7 +62,9 @@
     "webpack-merge": "5.7.3"
   },
   "keywords": [
-    "throttle",
+    "hook",
+    "react",
+    "componentWillMount",
     "typescript"
   ]
 }
