@@ -1,6 +1,6 @@
 {
   "name": "@martinstark/use-once",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Correctly typed generic throttle function",
   "typings": "dist/typings/index.d.ts",
   "main": "dist/use-once.min.js",
