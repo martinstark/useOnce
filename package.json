@@ -1,7 +1,7 @@
 {
   "name": "@martinstark/use-once",
   "version": "1.0.2",
-  "description": "Correctly typed generic throttle function",
+  "description": "Roughly a react hook equivalent of componentWillMount",
   "typings": "dist/typings/index.d.ts",
   "main": "dist/use-once.min.js",
   "private": false,
