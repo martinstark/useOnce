@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/martinstark/useOnce/compare/v1.0.2...v1.0.3) (2021-04-29)
+
+
+### Bug Fixes
+
+* update description ([f53cb58](https://github.com/martinstark/useOnce/commit/f53cb581d042693474526aa5752f8b56f19e45e4))
+* update keywords ([9e562ab](https://github.com/martinstark/useOnce/commit/9e562ab320ca77d44caf25715ade391317e6a986))
+
 ## [1.0.2](https://github.com/martinstark/useOnce/compare/v1.0.1...v1.0.2) (2021-04-29)
 
 
